@@ -2,7 +2,7 @@
 Платформа за преглед, оснивање и повезивање грађана са месним заједницама
 
 **Тренутно се налази у развојној фази.**
-https://github.com/Sobot/zbor-gradjana
+[https://github.com/Sobot/mesne-zajednice](https://github.com/Sobot/mesne-zajednice)
 
 ## Функционалности
 
